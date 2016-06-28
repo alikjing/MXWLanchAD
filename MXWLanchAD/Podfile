@@ -1,0 +1,5 @@
+platform:ios, ’8.0’
+
+target ‘MXWLanchAD’ do
+    pod 'NJKWebViewProgress', '~> 0.2.3'
+end 
